@@ -171,4 +171,10 @@ dns:
         words:
           - ".iidns.com"
 
+      - type: word
+        name: signalsciences
+        words:
+          - ".sigscicloudwaf.com"
+
+
 # Enhanced by mp on 2022/03/13
